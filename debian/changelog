@@ -1,0 +1,5 @@
+ktouchpadenabler (0.1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #689080).
+
+ -- Daniel Skinner <daniel@dasa.cc>  Fri, 28 Sep 2012 14:20:05 -0500
