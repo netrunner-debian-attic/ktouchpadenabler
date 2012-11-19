@@ -1,9 +1,10 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: ktouchpadenabler
+Upstream-Contact: Albert Astals Cid <aacid@kde.org>
 Source: http://download.kde.org/stable/extragear/ktouchpadenabler-0.1.0.tar.bz2
 
 Files: *
-Copyright: 2012 Albert Astals Cid
+Copyright: Copyright 2011, 2012 Albert Astals Cid
 License: GPL-2.0+
 
 Files: debian/*
