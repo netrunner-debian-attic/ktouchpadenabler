@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-02-22 02:56+0100\n"
+"POT-Creation-Date: 2012-08-19 02:45+0200\n"
 "PO-Revision-Date: 2012-04-24 02:36+0300\n"
 "Last-Translator: Marek Laane <bald@smail.ee>\n"
 "Language-Team: Estonian <kde-et@linux.ee>\n"
@@ -17,11 +17,11 @@ msgstr ""
 "X-Generator: Lokalize 1.4\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: ktouchpadenabler_daemon.cpp:115 ktouchpadenabler_daemon.cpp:153
+#: ktouchpadenabler_daemon.cpp:128 ktouchpadenabler_daemon.cpp:161
 msgid "Touchpad status"
 msgstr "Puutepadja olek"
 
-#: ktouchpadenabler_daemon.cpp:115
+#: ktouchpadenabler_daemon.cpp:128
 msgid ""
 "More than one touchpad detected. Touchpad Enabler Daemon does not handle "
 "this configuration"
@@ -29,10 +29,10 @@ msgstr ""
 "Leiti rohkem kui üks puutepadi. Puutepadja rakendamise deemon ei suuda "
 "sellise olukorraga toime tulla"
 
-#: ktouchpadenabler_daemon.cpp:153
+#: ktouchpadenabler_daemon.cpp:161
 msgid "Touchpad enabled"
 msgstr "Puutepadi sees"
 
-#: ktouchpadenabler_daemon.cpp:153
+#: ktouchpadenabler_daemon.cpp:161
 msgid "Touchpad disabled"
 msgstr "Puutepadi väljas"

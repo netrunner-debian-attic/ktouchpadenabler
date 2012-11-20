@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-02-22 02:56+0100\n"
+"POT-Creation-Date: 2012-08-19 02:45+0200\n"
 "PO-Revision-Date: 2012-01-19 12:34+0400\n"
 "Last-Translator: Zayed Al-Saidi <zayed.alsaidi@gmail.com>\n"
 "Language-Team: Arabic <kde-i18n-doc@kde.org>\n"
@@ -18,11 +18,11 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 
-#: ktouchpadenabler_daemon.cpp:115 ktouchpadenabler_daemon.cpp:153
+#: ktouchpadenabler_daemon.cpp:128 ktouchpadenabler_daemon.cpp:161
 msgid "Touchpad status"
 msgstr "حالة لوحة اللمس"
 
-#: ktouchpadenabler_daemon.cpp:115
+#: ktouchpadenabler_daemon.cpp:128
 #, fuzzy
 #| msgid ""
 #| "Found more than one touchpad. Touchpad Enabler Daemon does not handle "
@@ -33,10 +33,10 @@ msgid ""
 msgstr ""
 "وجد أكثر من لوحة لمس. مراقب تفعيل لوحة اللمس لا يمكنه التعامل مع هذا الإعداد"
 
-#: ktouchpadenabler_daemon.cpp:153
+#: ktouchpadenabler_daemon.cpp:161
 msgid "Touchpad enabled"
 msgstr "لوحة اللمس مفعلة"
 
-#: ktouchpadenabler_daemon.cpp:153
+#: ktouchpadenabler_daemon.cpp:161
 msgid "Touchpad disabled"
 msgstr "لوحة اللمس معطلة"
