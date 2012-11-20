@@ -1,38 +1,36 @@
 # Copyright (C) YEAR This_file_is_part_of_KDE
 # This file is distributed under the same license as the PACKAGE package.
 #
-# Stefan Asserhall <stefan.asserhall@comhem.se>, 2012.
+# Ni Hui <shuizhuyuanluo@126.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2012-08-19 02:45+0200\n"
-"PO-Revision-Date: 2012-02-22 22:29+0100\n"
-"Last-Translator: Stefan Asserhäll <stefan.asserhall@comhem.se>\n"
-"Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
-"Language: sv\n"
+"PO-Revision-Date: 2012-05-28 12:41+0800\n"
+"Last-Translator: Ni Hui <shuizhuyuanluo@126.com>\n"
+"Language-Team: Chinese Simplified <kde-china@kde.org>\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.2\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
 
 #: ktouchpadenabler_daemon.cpp:128 ktouchpadenabler_daemon.cpp:161
 msgid "Touchpad status"
-msgstr "Tryckplattans status"
+msgstr "触摸板状态"
 
 #: ktouchpadenabler_daemon.cpp:128
 msgid ""
 "More than one touchpad detected. Touchpad Enabler Daemon does not handle "
 "this configuration"
-msgstr ""
-"Hittade mer än en tryckplatta. Demonen för aktivering av tryckplatta "
-"hanterar inte denna konfiguration."
+msgstr "探测到多个触摸板。触摸板启用器守护进程无法处理此配置"
 
 #: ktouchpadenabler_daemon.cpp:161
 msgid "Touchpad enabled"
-msgstr "Tryckplatta aktiverad"
+msgstr "触摸板已启用"
 
 #: ktouchpadenabler_daemon.cpp:161
 msgid "Touchpad disabled"
-msgstr "Tryckplatta avstängd"
+msgstr "触摸板已禁用"
